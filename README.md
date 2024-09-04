@@ -11,11 +11,11 @@ CONTROL
 
 Move Left
 
-Key: Left Arrow (<Left>)
+Key: Left Arrow 
 Function: Moves the catcher to the left. This is useful for positioning the catcher to intercept falling eggs and avoid bombs.
 Move Right
 
-Key: Right Arrow (<Right>)
+Key: Right Arrow 
 Function: Moves the catcher to the right. This helps in adjusting the catcher's position to catch falling eggs and dodge bombs.
 
 GOAL OF GAME
