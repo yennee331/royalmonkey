@@ -1,20 +1,42 @@
-Introduction to the Egg Catcher Game
-Welcome to Egg Catcher, a fun and engaging Python game where your goal is to catch as many eggs as possible while avoiding bombs! This game combines quick reflexes and strategic movement to maximize your score and keep your lives intact.
+MEMBERS:
+TAN YEN NEE
+YEOH ZHI EE
+YOON EE SHYN
 
-Goal of the Game
-Your primary objective in Egg Catcher is to score points by catching falling eggs while avoiding or catching bombs. The game becomes progressively challenging as you try to keep up with the increasing number of falling objects. Your score increases each time you catch an egg, but you lose lives for missing eggs or catching bombs.
 
-Game Rules
+ Egg Catcher Game is a fun and engaging Python game where your goal is to catch as many eggs as possible while avoiding bombs! This game combines quick reflexes and strategic movement to maximize your score and keep your lives intact.
+
+CONTROL
+
+Move Left
+
+Key: Left Arrow (<Left>)
+Function: Moves the catcher to the left. This is useful for positioning the catcher to intercept falling eggs and avoid bombs.
+Move Right
+
+Key: Right Arrow (<Right>)
+Function: Moves the catcher to the right. This helps in adjusting the catcher's position to catch falling eggs and dodge bombs.
+
+GOAL OF GAME
+
+To score points by catching falling eggs while avoiding or catching bombs. The game becomes progressively challenging as you try to keep up with the increasing number of falling objects. Your score increases each time you catch an egg, but you lose lives for missing eggs or catching bombs.
+
+GAME RULES
+
 Catching Eggs: Each egg you catch adds points to your score. Different colored eggs may appear, but they all have the same value.
 Avoiding Bombs: Bombs fall alongside the eggs. If you catch a bomb, you lose a life instead of gaining points.
 Lives: You start with a set number of lives. Losing all your lives ends the game.
 Score Penalty: Missing an egg will reduce your score. So, it's crucial to catch as many eggs as possible.
-How to Play
+
+HOW TO PLAY
+
 Movement: Use the left and right arrow keys to move the catcher (represented as an arc) across the bottom of the screen.
 Catch the Eggs: Position the catcher to catch the falling eggs. The catcher must be positioned correctly for the egg to be considered caught.
 Avoid the Bombs: Do not let the bombs fall into the catcher. Instead, focus on dodging them or catching them to avoid losing lives.
 React Quickly: The game speeds up over time, so stay alert and react quickly to changes.
-How to Install
+
+HOW TO INSTALL
+
 To play Egg Catcher, you need to have Python and the Tkinter library installed on your computer. Here’s a step-by-step guide to get you started:
 
 Install Python:
@@ -34,4 +56,5 @@ python egg_catcher.py
 Enjoy:
 
 The game window will open, and you can start playing by moving the catcher left and right using the arrow keys.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3e1d84c0-fdd5-4eb4-8e8c-a8fe01fc4700)
+
