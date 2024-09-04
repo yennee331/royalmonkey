@@ -1,13 +1,18 @@
-MEMBERS:
+## GROUP NAME
+RoyalMonkey
+
+
+
+## MEMBERS
 TAN YEN NEE
 ,YEOH ZHI EE
 ,YOON EE SHYN
 
-EGG CATCHER GAME
+## EGG CATCHER GAME
 
 Egg Catcher Game is a fun and engaging Python game where your goal is to catch as many eggs as possible while avoiding bombs! This game combines quick reflexes and strategic movement to maximize your score and keep your lives intact.
 
-CONTROL
+## CONTROL
 
 Move Left
 
@@ -18,25 +23,25 @@ Move Right
 Key: Right Arrow 
 Function: Moves the catcher to the right. This helps in adjusting the catcher's position to catch falling eggs and dodge bombs.
 
-GOAL OF GAME
+## GOAL OF GAME
 
 To score points by catching falling eggs while avoiding or catching bombs. The game becomes progressively challenging as you try to keep up with the increasing number of falling objects. Your score increases each time you catch an egg, but you lose lives for missing eggs or catching bombs.
 
-GAME RULES
+## GAME RULES
 
 Catching Eggs: Each egg you catch adds points to your score. Different colored eggs may appear, but they all have the same value.
 Avoiding Bombs: Bombs fall alongside the eggs. If you catch a bomb, you lose a life instead of gaining points.
 Lives: You start with a set number of lives. Losing all your lives ends the game.
 Score Penalty: Missing an egg will reduce your score. So, it's crucial to catch as many eggs as possible.
 
-HOW TO PLAY
+## HOW TO PLAY
 
 Movement: Use the left and right arrow keys to move the catcher (represented as an arc) across the bottom of the screen.
 Catch the Eggs: Position the catcher to catch the falling eggs. The catcher must be positioned correctly for the egg to be considered caught.
 Avoid the Bombs: Do not let the bombs fall into the catcher. Instead, focus on dodging them or catching them to avoid losing lives.
 React Quickly: The game speeds up over time, so stay alert and react quickly to changes.
 
-HOW TO INSTALL
+## HOW TO INSTALL
 
 To play Egg Catcher, you need to have Python and the Tkinter library installed on your computer. Here’s a step-by-step guide to get you started:
 
