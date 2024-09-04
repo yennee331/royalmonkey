@@ -13,13 +13,7 @@ TAN YEN NEE
 
 Egg Catcher Game is a fun and engaging Python game where your goal is to catch as many eggs as possible while avoiding bombs! This game combines quick reflexes and strategic movement to maximize your score and keep your lives intact.
 
-## CONTROL
 
-Move Left
-
-Key: Left Arrow 
-Function: Moves the catcher to the left. This is useful for positioning the catcher to intercept falling eggs and avoid bombs.
-Move Right
 
 Key: Right Arrow 
 Function: Moves the catcher to the right. This helps in adjusting the catcher's position to catch falling eggs and dodge bombs.
