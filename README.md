@@ -1,3 +1,4 @@
+## EGG CATCHER GAME
 ## GROUP NAME
 RoyalMonkey
 
@@ -8,7 +9,7 @@ TAN YEN NEE
 ,YEOH ZHI EE
 ,YOON EE SHYN
 
-## EGG CATCHER GAME
+## OVERVIEW
 
 Egg Catcher Game is a fun and engaging Python game where your goal is to catch as many eggs as possible while avoiding bombs! This game combines quick reflexes and strategic movement to maximize your score and keep your lives intact.
 
